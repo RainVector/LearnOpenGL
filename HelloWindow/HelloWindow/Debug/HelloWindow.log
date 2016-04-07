@@ -1,0 +1,4 @@
+﻿  hellowindow.cpp
+hellowindow.obj : error LNK2019: 无法解析的外部符号 _glfwInit，该符号在函数 _main 中被引用
+hellowindow.obj : error LNK2019: 无法解析的外部符号 _glfwWindowHint，该符号在函数 _main 中被引用
+E:\Projects\HelloWindow\Debug\HelloWindow.exe : fatal error LNK1120: 2 个无法解析的外部命令
