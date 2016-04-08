@@ -1,0 +1,6 @@
+﻿  shader.cpp
+  main.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: “APIENTRY”: 宏重定义
+  d:\visualstudio\vc\include\glfw\glfw3.h(85): note: 参见“APIENTRY”的前一个定义
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“freeglutd.lib”
