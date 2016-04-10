@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: “APIENTRY”: 宏重定义
+  d:\visualstudio\vc\include\glfw\glfw3.h(85): note: 参见“APIENTRY”的前一个定义
+e:\projects\mesh\mesh\main.cpp(85): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\projects\mesh\mesh\main.cpp(117): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\projects\mesh\mesh\main.cpp(123): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\projects\mesh\mesh\main.cpp(124): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\projects\mesh\mesh\main.cpp(128): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\projects\mesh\mesh\main.cpp(129): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\projects\mesh\mesh\main.cpp(131): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\projects\mesh\mesh\main.cpp(132): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  Mesh.vcxproj -> E:\Projects\Mesh\x64\Debug\Mesh.exe
