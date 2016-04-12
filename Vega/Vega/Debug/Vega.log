@@ -1,0 +1,931 @@
+﻿  volumetricMeshParser.cpp
+e:\projects\vega\vega\volumetricmeshparser.cpp(40): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\volumetricmeshparser.cpp(45): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\volumetricmeshparser.cpp(88): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\volumetricmeshparser.cpp(174): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\projects\vega\vega\volumetricmeshparser.cpp(176): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  volumetricMeshOrthotropicMaterial.cpp
+  volumetricMeshMooneyRivlinMaterial.cpp
+  volumetricMeshLoader.cpp
+e:\projects\vega\vega\volumetricmeshloader.cpp(98): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\volumetricmeshloader.cpp(182): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  volumetricMeshExtensions.cpp
+  volumetricMeshENuMaterial.cpp
+  volumetricMeshDeformationGradient.cpp
+  volumetricMesh.cpp
+e:\projects\vega\vega\volumetricmesh.cpp(194): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(236): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(268): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(289): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(315): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(336): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(427): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(434): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(468): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(497): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(516): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(526): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(533): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(545): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(556): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(569): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(612): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(662): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(665): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(715): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(726): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(1212): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(1226): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(1253): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(1255): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(1365): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(1597): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(1736): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(2239): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(2273): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(2298): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(2309): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(2313): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(2326): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(2369): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(2393): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(2812): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(2814): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(2875): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\projects\vega\vega\volumetricmesh.cpp(2877): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  viewmodel.cpp
+  vec3d.cpp
+  vec2d.cpp
+  vbo.cpp
+e:\projects\vega\vega\vbo.h(13): fatal error C1083: 无法打开包括文件: “GL/glext.h”: No such file or directory
+  uUq-shaders.cpp
+  uniqueIntegerID.cpp
+  tribox3.cpp
+  triangle.cpp
+  triangle-closestPoint.cpp
+  tetMesh.cpp
+e:\projects\vega\vega\tetmesh.cpp(68): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\projects\vega\vega\tetmesh.cpp(74): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\tetmesh.cpp(85): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\tetmesh.cpp(94): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\projects\vega\vega\tetmesh.cpp(99): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\tetmesh.cpp(114): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+  StVKTetHighMemoryABCD.cpp
+  StVKTetABCD.cpp
+  正在生成代码...
+  正在编译...
+  StVKStiffnessMatrixMT.cpp
+e:\projects\vega\vega\stvkstiffnessmatrixmt.cpp(29): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  StVKStiffnessMatrix.cpp
+  StVKReducedStiffnessMatrix.cpp
+e:\projects\vega\vega\lapack-headers.h(2): fatal error C1083: 无法打开包括文件: “mkl_cblas.h”: No such file or directory
+  StVKReducedInternalForcesMultiLoad.cpp
+e:\projects\vega\vega\stvkreducedinternalforcesmultiload.cpp(37): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\stvkreducedinternalforcesmultiload.cpp(65): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  StVKReducedInternalForcesMT.cpp
+e:\projects\vega\vega\stvkreducedinternalforcesmt.cpp(29): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  StVKReducedInternalForces.cpp
+e:\projects\vega\vega\lapack-headers.h(2): fatal error C1083: 无法打开包括文件: “mkl_cblas.h”: No such file or directory
+  StVKReducedHessianTensor.cpp
+e:\projects\vega\vega\lapack-headers.h(2): fatal error C1083: 无法打开包括文件: “mkl_cblas.h”: No such file or directory
+  StVKIsotropicMaterial.cpp
+  StVKInternalForcesMT.cpp
+e:\projects\vega\vega\stvkinternalforcesmt.cpp(29): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  StVKInternalForces.cpp
+  StVKHessianTensor.cpp
+e:\projects\vega\vega\stvkhessiantensor.cpp(260): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  StVKForceModel.cpp
+  StVKElementABCDLoader.cpp
+  StVKElementABCD.cpp
+  StVKCubeABCD.cpp
+  SPOOLESSolverMT.cpp
+  SPOOLESSolver.cpp
+  sparseMatrixMT.cpp
+  sparseMatrix.cpp
+e:\projects\vega\vega\sparsematrix.cpp(83): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\sparsematrix.cpp(92): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\projects\vega\vega\sparsematrix.cpp(109): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\sparsematrix.cpp(197): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\sparsematrix.cpp(1293): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\sparsematrix.cpp(1314): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  simpleSphere.cpp
+  正在生成代码...
+  正在编译...
+  sceneObjectWithRestPosition.cpp
+  sceneObjectReducedGPU6DOF.cpp
+e:\projects\vega\vega\sceneobjectreduced6dof.h(57): warning C4250: “SceneObjectReduced6DOF”: 通过域控制继承“SceneObject6DOF::SceneObject6DOF::RenderNormals”
+  e:\projects\vega\vega\sceneobject6dof.h(61): note: 参见“SceneObject6DOF::RenderNormals”的声明
+e:\projects\vega\vega\sceneobjectreduced6dof.h(57): warning C4250: “SceneObjectReduced6DOF”: 通过域控制继承“SceneObject6DOF::SceneObject6DOF::GetClosestVertex”
+  e:\projects\vega\vega\sceneobject6dof.h(71): note: 参见“SceneObject6DOF::GetClosestVertex”的声明
+e:\projects\vega\vega\objmeshgpudeformer.h(42): fatal error C1083: 无法打开包括文件: “GL/glext.h”: No such file or directory
+  sceneObjectReducedGPU.cpp
+e:\projects\vega\vega\objmeshgpudeformer.h(42): fatal error C1083: 无法打开包括文件: “GL/glext.h”: No such file or directory
+  sceneObjectReducedCPU6DOF.cpp
+e:\projects\vega\vega\sceneobjectreduced6dof.h(57): warning C4250: “SceneObjectReduced6DOF”: 通过域控制继承“SceneObject6DOF::SceneObject6DOF::RenderNormals”
+  e:\projects\vega\vega\sceneobject6dof.h(61): note: 参见“SceneObject6DOF::RenderNormals”的声明
+e:\projects\vega\vega\sceneobjectreduced6dof.h(57): warning C4250: “SceneObjectReduced6DOF”: 通过域控制继承“SceneObject6DOF::SceneObject6DOF::GetClosestVertex”
+  e:\projects\vega\vega\sceneobject6dof.h(71): note: 参见“SceneObject6DOF::GetClosestVertex”的声明
+e:\projects\vega\vega\sceneobjectreducedcpu6dof.h(53): warning C4250: “SceneObjectReducedCPU6DOF”: 通过域控制继承“SceneObject6DOF::SceneObject6DOF::RenderNormals”
+  e:\projects\vega\vega\sceneobject6dof.h(61): note: 参见“SceneObject6DOF::RenderNormals”的声明
+e:\projects\vega\vega\sceneobjectreducedcpu6dof.h(53): warning C4250: “SceneObjectReducedCPU6DOF”: 通过域控制继承“SceneObjectReduced6DOF::SceneObjectReduced6DOF::GetSingleVertexPosition”
+  e:\projects\vega\vega\sceneobjectreduced6dof.h(43): note: 参见“SceneObjectReduced6DOF::GetSingleVertexPosition”的声明
+e:\projects\vega\vega\sceneobjectreducedcpu6dof.h(53): warning C4250: “SceneObjectReducedCPU6DOF”: 通过域控制继承“SceneObjectReducedCPU::SceneObjectReducedCPU::Getu”
+  e:\projects\vega\vega\sceneobjectreducedcpu.h(51): note: 参见“SceneObjectReducedCPU::Getu”的声明
+e:\projects\vega\vega\sceneobjectreducedcpu6dof.h(53): warning C4250: “SceneObjectReducedCPU6DOF”: 通过域控制继承“SceneObjectReducedCPU::SceneObjectReducedCPU::Setq”
+  e:\projects\vega\vega\sceneobjectreducedcpu.h(47): note: 参见“SceneObjectReducedCPU::Setq”的声明
+e:\projects\vega\vega\sceneobjectreducedcpu6dof.h(53): warning C4250: “SceneObjectReducedCPU6DOF”: 通过域控制继承“SceneObjectReducedCPU::SceneObjectReducedCPU::Compute_uUq”
+  e:\projects\vega\vega\sceneobjectreducedcpu.h(48): note: 参见“SceneObjectReducedCPU::Compute_uUq”的声明
+  sceneObjectReducedCPU.cpp
+  sceneObjectReduced6DOF.cpp
+e:\projects\vega\vega\sceneobjectreduced6dof.h(57): warning C4250: “SceneObjectReduced6DOF”: 通过域控制继承“SceneObject6DOF::SceneObject6DOF::RenderNormals”
+  e:\projects\vega\vega\sceneobject6dof.h(61): note: 参见“SceneObject6DOF::RenderNormals”的声明
+e:\projects\vega\vega\sceneobjectreduced6dof.h(57): warning C4250: “SceneObjectReduced6DOF”: 通过域控制继承“SceneObject6DOF::SceneObject6DOF::GetClosestVertex”
+  e:\projects\vega\vega\sceneobject6dof.h(71): note: 参见“SceneObject6DOF::GetClosestVertex”的声明
+  sceneObjectReduced.cpp
+  sceneObjectDeformableGPU6DOF.cpp
+e:\projects\vega\vega\objmeshgpudeformer.h(42): fatal error C1083: 无法打开包括文件: “GL/glext.h”: No such file or directory
+  sceneObjectDeformableGPU.cpp
+e:\projects\vega\vega\objmeshgpudeformer.h(42): fatal error C1083: 无法打开包括文件: “GL/glext.h”: No such file or directory
+  sceneObjectDeformable6DOF.cpp
+e:\projects\vega\vega\sceneobjectdeformable6dof.h(55): warning C4250: “SceneObjectDeformable6DOF”: 通过域控制继承“SceneObject6DOF::SceneObject6DOF::RenderNormals”
+  e:\projects\vega\vega\sceneobject6dof.h(61): note: 参见“SceneObject6DOF::RenderNormals”的声明
+  sceneObjectDeformable.cpp
+  sceneObject6DOF.cpp
+  sceneObject.cpp
+e:\projects\vega\vega\sceneobject.cpp(414): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  saveScreenShot.cpp
+  rigidBody_generalTensor.cpp
+  rigidBody.cpp
+  renderVolumetricMesh.cpp
+  renderSprings.cpp
+  reducedSubspaceStVKForceModel.cpp
+  reducedStVKForceModelWithHessian.cpp
+e:\projects\vega\vega\reducedstvkforcemodelwithhessian.h(52): warning C4250: “ReducedStVKForceModelWithHessian”: 通过域控制继承“ReducedStVKForceModel::ReducedStVKForceModel::GetInternalForce”
+  e:\projects\vega\vega\reducedstvkforcemodel.h(55): note: 参见“ReducedStVKForceModel::GetInternalForce”的声明
+e:\projects\vega\vega\reducedstvkforcemodelwithhessian.h(52): warning C4250: “ReducedStVKForceModelWithHessian”: 通过域控制继承“ReducedStVKForceModel::ReducedStVKForceModel::GetTangentStiffnessMatrix”
+  e:\projects\vega\vega\reducedstvkforcemodel.h(56): note: 参见“ReducedStVKForceModel::GetTangentStiffnessMatrix”的声明
+  正在生成代码...
+  正在编译...
+  reducedStVKForceModel.cpp
+  reducedSpringForceModel.cpp
+  reducedMassSpringSystemForceModelWithHessian.cpp
+e:\projects\vega\vega\reducedmassspringsystemforcemodelwithhessian.h(54): warning C4250: “ReducedMassSpringSystemForceModelWithHessian”: 通过域控制继承“ReducedMassSpringSystemForceModel::ReducedMassSpringSystemForceModel::GetInternalForce”
+  e:\projects\vega\vega\reducedmassspringsystemforcemodel.h(52): note: 参见“ReducedMassSpringSystemForceModel::GetInternalForce”的声明
+e:\projects\vega\vega\reducedmassspringsystemforcemodelwithhessian.h(54): warning C4250: “ReducedMassSpringSystemForceModelWithHessian”: 通过域控制继承“ReducedMassSpringSystemForceModel::ReducedMassSpringSystemForceModel::GetTangentStiffnessMatrix”
+  e:\projects\vega\vega\reducedmassspringsystemforcemodel.h(53): note: 参见“ReducedMassSpringSystemForceModel::GetTangentStiffnessMatrix”的声明
+e:\projects\vega\vega\reducedmassspringsystemforcemodelwithhessian.h(54): warning C4250: “ReducedMassSpringSystemForceModelWithHessian”: 通过域控制继承“ReducedMassSpringSystemForceModel::ReducedMassSpringSystemForceModel::GetForceAndMatrix”
+  e:\projects\vega\vega\reducedmassspringsystemforcemodel.h(55): note: 参见“ReducedMassSpringSystemForceModel::GetForceAndMatrix”的声明
+  reducedMassSpringSystemForceModel.cpp
+  reducedLinearStVKForceModel.cpp
+  reducedLinearForceModel.cpp
+e:\projects\vega\vega\lapack-headers.h(2): fatal error C1083: 无法打开包括文件: “mkl_cblas.h”: No such file or directory
+  reducedForceModelWithHessian.cpp
+e:\projects\vega\vega\lapack-headers.h(2): fatal error C1083: 无法打开包括文件: “mkl_cblas.h”: No such file or directory
+  reducedForceModel.cpp
+  quaternion.cpp
+e:\projects\vega\vega\quaternion.cpp(40): error C2653: “quat”: 不是类或命名空间名称
+e:\projects\vega\vega\quaternion.cpp(41): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(42): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+e:\projects\vega\vega\quaternion.cpp(42): error C3861: “quat_identity”: 找不到标识符
+e:\projects\vega\vega\quaternion.cpp(43): warning C4508: “quat”: 函数应返回一个值；假定“void”返回类型
+e:\projects\vega\vega\quaternion.cpp(45): error C2653: “quat”: 不是类或命名空间名称
+e:\projects\vega\vega\quaternion.cpp(46): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(47): error C2065: “v”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(47): error C2228: “.set”的左边必须有类/结构/联合
+  e:\projects\vega\vega\quaternion.cpp(47): note: 类型是“unknown-type”
+e:\projects\vega\vega\quaternion.cpp(48): error C2065: “s”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(49): warning C4508: “quat”: 函数应返回一个值；假定“void”返回类型
+e:\projects\vega\vega\quaternion.cpp(51): error C2653: “quat”: 不是类或命名空间名称
+e:\projects\vega\vega\quaternion.cpp(51): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(51): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+e:\projects\vega\vega\quaternion.cpp(52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(53): error C2065: “_v”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(53): error C2065: “_s”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(53): error C3861: “set”: 找不到标识符
+e:\projects\vega\vega\quaternion.cpp(54): warning C4508: “quat”: 函数应返回一个值；假定“void”返回类型
+e:\projects\vega\vega\quaternion.cpp(56): error C2653: “quat”: 不是类或命名空间名称
+e:\projects\vega\vega\quaternion.cpp(56): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(56): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+e:\projects\vega\vega\quaternion.cpp(57): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(58): error C2065: “_v”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(58): error C3861: “set”: 找不到标识符
+e:\projects\vega\vega\quaternion.cpp(59): warning C4508: “quat”: 函数应返回一个值；假定“void”返回类型
+e:\projects\vega\vega\quaternion.cpp(61): error C2653: “quat”: 不是类或命名空间名称
+e:\projects\vega\vega\quaternion.cpp(62): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(63): error C2065: “v”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(64): error C2065: “v”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(65): error C2065: “v”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(66): error C2065: “s”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(67): warning C4508: “quat”: 函数应返回一个值；假定“void”返回类型
+e:\projects\vega\vega\quaternion.cpp(69): error C2653: “quat”: 不是类或命名空间名称
+e:\projects\vega\vega\quaternion.cpp(70): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(71): error C2065: “v”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(72): error C2065: “v”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(73): error C2065: “v”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(74): error C2065: “s”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(75): warning C4508: “quat”: 函数应返回一个值；假定“void”返回类型
+e:\projects\vega\vega\quaternion.cpp(77): error C2653: “quat”: 不是类或命名空间名称
+e:\projects\vega\vega\quaternion.cpp(77): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(77): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+e:\projects\vega\vega\quaternion.cpp(78): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(78): error C2084: 函数“int quat(const int)”已有主体
+  e:\projects\vega\vega\quaternion.cpp(51): note: 参见“quat”的前一个定义
+e:\projects\vega\vega\quaternion.cpp(79): error C2065: “v”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(79): error C2065: “q”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(79): error C2228: “.v”的左边必须有类/结构/联合
+  e:\projects\vega\vega\quaternion.cpp(79): note: 类型是“unknown-type”
+e:\projects\vega\vega\quaternion.cpp(80): error C2065: “s”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(80): error C2065: “q”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(80): error C2228: “.s”的左边必须有类/结构/联合
+  e:\projects\vega\vega\quaternion.cpp(80): note: 类型是“unknown-type”
+e:\projects\vega\vega\quaternion.cpp(83): error C2653: “quat”: 不是类或命名空间名称
+e:\projects\vega\vega\quaternion.cpp(83): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(83): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+e:\projects\vega\vega\quaternion.cpp(85): error C2065: “v”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(85): error C2065: “_v”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(86): error C2065: “s”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(86): error C2065: “_s”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(89): error C2143: 语法错误: 缺少“;”(在“&”的前面)
+e:\projects\vega\vega\quaternion.cpp(89): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(89): error C2365: “quat”: 重定义；以前的定义是“函数”
+e:\projects\vega\vega\quaternion.cpp(89): error C2653: “quat”: 不是类或命名空间名称
+e:\projects\vega\vega\quaternion.cpp(89): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+e:\projects\vega\vega\quaternion.cpp(90): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(90): error C2059: 语法错误:“{”
+e:\projects\vega\vega\quaternion.cpp(90): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\projects\vega\vega\quaternion.cpp(90): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+e:\projects\vega\vega\quaternion.cpp(98): error C2143: 语法错误: 缺少“;”(在“+”的前面)
+e:\projects\vega\vega\quaternion.cpp(98): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(98): error C2365: “quat”: 重定义；以前的定义是“函数”
+e:\projects\vega\vega\quaternion.cpp(98): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+e:\projects\vega\vega\quaternion.cpp(99): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(99): error C2803: “operator +”必须至少有一个类类型的形参
+e:\projects\vega\vega\quaternion.cpp(100): error C2065: “a”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(100): error C2228: “.s”的左边必须有类/结构/联合
+  e:\projects\vega\vega\quaternion.cpp(100): note: 类型是“unknown-type”
+e:\projects\vega\vega\quaternion.cpp(100): error C2065: “b”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(100): error C2228: “.v”的左边必须有类/结构/联合
+  e:\projects\vega\vega\quaternion.cpp(100): note: 类型是“unknown-type”
+e:\projects\vega\vega\quaternion.cpp(100): error C2064: 项不会计算为接受 1 个参数的函数
+e:\projects\vega\vega\quaternion.cpp(103): error C2143: 语法错误: 缺少“;”(在“-”的前面)
+e:\projects\vega\vega\quaternion.cpp(103): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(103): error C2365: “quat”: 重定义；以前的定义是“函数”
+e:\projects\vega\vega\quaternion.cpp(103): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+e:\projects\vega\vega\quaternion.cpp(104): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(104): error C2803: “operator -”必须至少有一个类类型的形参
+e:\projects\vega\vega\quaternion.cpp(105): error C2065: “a”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(105): error C2228: “.s”的左边必须有类/结构/联合
+  e:\projects\vega\vega\quaternion.cpp(105): note: 类型是“unknown-type”
+e:\projects\vega\vega\quaternion.cpp(105): error C2065: “b”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(105): error C2228: “.v”的左边必须有类/结构/联合
+  e:\projects\vega\vega\quaternion.cpp(105): note: 类型是“unknown-type”
+e:\projects\vega\vega\quaternion.cpp(105): error C2064: 项不会计算为接受 1 个参数的函数
+e:\projects\vega\vega\quaternion.cpp(108): error C2143: 语法错误: 缺少“;”(在“-”的前面)
+e:\projects\vega\vega\quaternion.cpp(108): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(108): error C2365: “quat”: 重定义；以前的定义是“函数”
+e:\projects\vega\vega\quaternion.cpp(108): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+e:\projects\vega\vega\quaternion.cpp(109): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(110): error C2065: “a”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(110): error C2228: “.s”的左边必须有类/结构/联合
+  e:\projects\vega\vega\quaternion.cpp(110): note: 类型是“unknown-type”
+e:\projects\vega\vega\quaternion.cpp(110): error C2228: “.v”的左边必须有类/结构/联合
+  e:\projects\vega\vega\quaternion.cpp(110): note: 类型是“unknown-type”
+e:\projects\vega\vega\quaternion.cpp(110): error C2064: 项不会计算为接受 1 个参数的函数
+e:\projects\vega\vega\quaternion.cpp(113): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+e:\projects\vega\vega\quaternion.cpp(113): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(113): error C2365: “quat”: 重定义；以前的定义是“函数”
+e:\projects\vega\vega\quaternion.cpp(113): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+e:\projects\vega\vega\quaternion.cpp(114): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(114): error C2803: “operator *”必须至少有一个类类型的形参
+e:\projects\vega\vega\quaternion.cpp(115): error C2065: “a”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(115): error C2228: “.s”的左边必须有类/结构/联合
+  e:\projects\vega\vega\quaternion.cpp(115): note: 类型是“unknown-type”
+e:\projects\vega\vega\quaternion.cpp(115): error C2065: “b”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(115): error C2228: “.v”的左边必须有类/结构/联合
+  e:\projects\vega\vega\quaternion.cpp(115): note: 类型是“unknown-type”
+e:\projects\vega\vega\quaternion.cpp(115): error C2064: 项不会计算为接受 1 个参数的函数
+e:\projects\vega\vega\quaternion.cpp(118): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+e:\projects\vega\vega\quaternion.cpp(118): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(118): error C2365: “quat”: 重定义；以前的定义是“函数”
+e:\projects\vega\vega\quaternion.cpp(118): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+e:\projects\vega\vega\quaternion.cpp(119): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(120): error C2065: “a”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(120): error C2228: “.v”的左边必须有类/结构/联合
+  e:\projects\vega\vega\quaternion.cpp(120): note: 类型是“unknown-type”
+e:\projects\vega\vega\quaternion.cpp(120): error C2065: “t”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(120): error C2228: “.s”的左边必须有类/结构/联合
+  e:\projects\vega\vega\quaternion.cpp(120): note: 类型是“unknown-type”
+e:\projects\vega\vega\quaternion.cpp(120): error C2064: 项不会计算为接受 1 个参数的函数
+e:\projects\vega\vega\quaternion.cpp(123): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+e:\projects\vega\vega\quaternion.cpp(123): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(123): error C2365: “quat”: 重定义；以前的定义是“函数”
+e:\projects\vega\vega\quaternion.cpp(123): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+e:\projects\vega\vega\quaternion.cpp(124): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(124): error C2803: “operator *”必须至少有一个类类型的形参
+e:\projects\vega\vega\quaternion.cpp(125): error C2065: “a”: 未声明的标识符
+e:\projects\vega\vega\quaternion.cpp(125): error C2228: “.v”的左边必须有类/结构/联合
+  e:\projects\vega\vega\quaternion.cpp(125): note: 类型是“unknown-type”
+e:\projects\vega\vega\quaternion.cpp(125): error C2228: “.s”的左边必须有类/结构/联合
+  e:\projects\vega\vega\quaternion.cpp(125): note: 类型是“unknown-type”
+e:\projects\vega\vega\quaternion.cpp(125): error C2064: 项不会计算为接受 1 个参数的函数
+e:\projects\vega\vega\quaternion.cpp(128): error C2653: “quat”: 不是类或命名空间名称
+e:\projects\vega\vega\quaternion.cpp(128): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\projects\vega\vega\quaternion.cpp(128): error C2146: 语法错误: 缺少“;”(在标识符“to_mat4”的前面)
+e:\projects\vega\vega\quaternion.cpp(129): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\projects\vega\vega\quaternion.cpp(129): fatal error C1003: 错误计数超过 100；正在停止编译
+  printBitmap.cpp
+e:\projects\vega\vega\printbitmap.cpp(49): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  ppm2array.cpp
+e:\projects\vega\vega\ppm2array.cpp(27): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\ppm2array.cpp(31): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  ppm.cpp
+e:\projects\vega\vega\ppm.cpp(42): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\ppm.cpp(49): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\projects\vega\vega\ppm.cpp(64): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  polarDecompositionGradientDriver.cpp
+  polarDecompositionGradient.cpp
+  polarDecomposition.cpp
+  performanceCounter.cpp
+  PardisoSolver.cpp
+  openGLHelper.cpp
+e:\projects\vega\vega\openglhelper.cpp(437): warning C4305: “参数”: 从“double”到“GLfloat”截断
+  octree.cpp
+  objMeshRender.cpp
+  正在生成代码...
+  正在编译...
+  objMeshOrientable.cpp
+  objMeshOffsetVoxels.cpp
+  objMeshOctree.cpp
+  objMeshGraph.cpp
+  objMeshGPUDeformer_uUq_setLighting.cpp
+e:\projects\vega\vega\objmeshgpudeformer.h(42): fatal error C1083: 无法打开包括文件: “GL/glext.h”: No such file or directory
+  objMeshGPUDeformer_uUq_pbuffer.cpp
+e:\projects\vega\vega\objmeshgpudeformer.h(42): fatal error C1083: 无法打开包括文件: “GL/glext.h”: No such file or directory
+  objMeshGPUDeformer_uUq_fbo.cpp
+e:\projects\vega\vega\objmeshgpudeformer.h(42): fatal error C1083: 无法打开包括文件: “GL/glext.h”: No such file or directory
+  objMeshGPUDeformer_uUq.cpp
+e:\projects\vega\vega\objmeshgpudeformer.h(42): fatal error C1083: 无法打开包括文件: “GL/glext.h”: No such file or directory
+  objMeshGPUDeformer_coarseToFine_fbo.cpp
+e:\projects\vega\vega\objmeshgpudeformer.h(42): fatal error C1083: 无法打开包括文件: “GL/glext.h”: No such file or directory
+  objMeshGPUDeformer_coarseToFine.cpp
+e:\projects\vega\vega\objmeshgpudeformer.h(42): fatal error C1083: 无法打开包括文件: “GL/glext.h”: No such file or directory
+  objMeshGPUDeformer.cpp
+e:\projects\vega\vega\objmeshgpudeformer.h(42): fatal error C1083: 无法打开包括文件: “GL/glext.h”: No such file or directory
+  objMeshEncode.cpp
+  objMeshClose.cpp
+  objMeshBinaryLoader.cpp
+  objMesh.cpp
+  objMesh-disjointSet.cpp
+  neoHookeanIsotropicMaterial.cpp
+  multiMatrixIO.cpp
+e:\projects\vega\vega\multimatrixio.cpp(46): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\multimatrixio.cpp(76): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  MooneyRivlinIsotropicMaterial.cpp
+  modalMatrixTransposed.cpp
+e:\projects\vega\vega\lapack-headers.h(2): fatal error C1083: 无法打开包括文件: “mkl_cblas.h”: No such file or directory
+  正在生成代码...
+  正在编译...
+  modalMatrix.cpp
+e:\projects\vega\vega\lapack-headers.h(2): fatal error C1083: 无法打开包括文件: “mkl_cblas.h”: No such file or directory
+  matrixProjection.cpp
+e:\projects\vega\vega\lapack-headers.h(2): fatal error C1083: 无法打开包括文件: “mkl_cblas.h”: No such file or directory
+  matrixPCA.cpp
+e:\projects\vega\vega\lapack-headers.h(2): fatal error C1083: 无法打开包括文件: “mkl_cblas.h”: No such file or directory
+  matrixLAPACK.cpp
+e:\projects\vega\vega\lapack-headers.h(2): fatal error C1083: 无法打开包括文件: “mkl_cblas.h”: No such file or directory
+  matrixIO.cpp
+e:\projects\vega\vega\matrixio.cpp(308): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\matrixio.cpp(345): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\matrixio.cpp(412): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\matrixio.cpp(715): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\matrixio.cpp(723): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\projects\vega\vega\matrixio.cpp(729): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\projects\vega\vega\matrixio.cpp(632): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  e:\projects\vega\vega\matrixio.cpp(784): note: 参见对正在编译的函数 模板 实例化“int ReadModesFromDisk<double>(const char *,int *,int *,double **,double **)”的引用
+e:\projects\vega\vega\matrixio.cpp(640): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\projects\vega\vega\matrixio.cpp(646): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\projects\vega\vega\matrixio.cpp(666): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\matrixio.cpp(668): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\matrixio.cpp(670): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\projects\vega\vega\matrixio.cpp(679): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\matrixio.cpp(681): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\matrixio.cpp(696): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\projects\vega\vega\matrixio.cpp(743): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  e:\projects\vega\vega\matrixio.cpp(787): note: 参见对正在编译的函数 模板 实例化“int WriteModesToDisk<double>(const char *,int,int,double *,double *)”的引用
+e:\projects\vega\vega\matrixio.cpp(58): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  e:\projects\vega\vega\matrixio.cpp(793): note: 参见对正在编译的函数 模板 实例化“int WriteMatrixToDisk<double>(const char *,int,int,double *)”的引用
+e:\projects\vega\vega\matrixio.cpp(164): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  e:\projects\vega\vega\matrixio.cpp(802): note: 参见对正在编译的函数 模板 实例化“int ReadMatrixFromDiskListOfFiles<double>(const char *,int *,int *,double **)”的引用
+e:\projects\vega\vega\matrixio.cpp(133): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  e:\projects\vega\vega\matrixio.cpp(808): note: 参见对正在编译的函数 模板 实例化“int ReadMatrixFromDisk<double>(const char *,int *,int *,double **)”的引用
+e:\projects\vega\vega\matrixio.cpp(462): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  e:\projects\vega\vega\matrixio.cpp(814): note: 参见对正在编译的函数 模板 实例化“int ReadMatrixFromDiskTextFile<double>(const char *,int *,int *,double **)”的引用
+e:\projects\vega\vega\matrixio.cpp(470): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\projects\vega\vega\matrixio.cpp(476): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\projects\vega\vega\matrixio.cpp(505): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\matrixio.cpp(554): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+e:\projects\vega\vega\matrixio.cpp(566): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\matrixio.cpp(576): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+e:\projects\vega\vega\matrixio.cpp(601): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  e:\projects\vega\vega\matrixio.cpp(817): note: 参见对正在编译的函数 模板 实例化“int WriteMatrixToDiskTextFile<double>(const char *,int,int,double *)”的引用
+  matrixExp.cpp
+e:\projects\vega\vega\lapack-headers.h(2): fatal error C1083: 无法打开包括文件: “mkl_cblas.h”: No such file or directory
+  matrixBLASVanilla.cpp
+  matrixBLASOptimized.cpp
+e:\projects\vega\vega\lapack-headers.h(2): fatal error C1083: 无法打开包括文件: “mkl_cblas.h”: No such file or directory
+  matrixBLAS.cpp
+e:\projects\vega\vega\lapack-headers.h(2): fatal error C1083: 无法打开包括文件: “mkl_cblas.h”: No such file or directory
+  matrix.cpp
+e:\projects\vega\vega\matrix.cpp(251): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  e:\projects\vega\vega\matrix.cpp(245): note: 编译类 模板 成员函数“float Matrix<float>::MaxAbsEntry(void) const”时
+  e:\projects\vega\vega\matrix.cpp(521): note: 参见对正在编译的类 模板 实例化“Matrix<float>”的引用
+e:\projects\vega\vega\matrix.cpp(272): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  e:\projects\vega\vega\matrix.cpp(269): note: 编译类 模板 成员函数“void Matrix<float>::Print(int) const”时
+e:\projects\vega\vega\matrix.cpp(274): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  mat3d.cpp
+e:\projects\vega\vega\mat3d.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  massSpringSystemMT.cpp
+e:\projects\vega\vega\massspringsystemmt.cpp(34): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  massSpringSystemFromTetMeshConfigFile.cpp
+e:\projects\vega\vega\massspringsystemfromtetmeshconfigfile.cpp(82): warning C4101: “massSpringSystemFromTetMesh”: 未引用的局部变量
+  massSpringSystemFromTetMesh.cpp
+  massSpringSystemFromObjMeshConfigFile.cpp
+  massSpringSystemFromObjMesh.cpp
+  massSpringSystemFromCubicMeshConfigFile.cpp
+e:\projects\vega\vega\massspringsystemfromcubicmeshconfigfile.cpp(82): warning C4101: “massSpringSystemFromCubicMesh”: 未引用的局部变量
+  massSpringSystemFromCubicMesh.cpp
+  massSpringSystemForceModel.cpp
+  massSpringSystem.cpp
+e:\projects\vega\vega\massspringsystem.cpp(776): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  正在生成代码...
+  正在编译...
+  loadList.cpp
+e:\projects\vega\vega\loadlist.cpp(58): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\loadlist.cpp(73): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+e:\projects\vega\vega\loadlist.cpp(77): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+e:\projects\vega\vega\loadlist.cpp(91): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+e:\projects\vega\vega\loadlist.cpp(96): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+e:\projects\vega\vega\loadlist.cpp(128): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\loadlist.cpp(162): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\loadlist.cpp(203): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\loadlist.cpp(232): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\loadlist.cpp(261): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  linearSolver.cpp
+  linearFEMForceModel.cpp
+  lighting.cpp
+e:\projects\vega\vega\lighting.cpp(56): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\projects\vega\vega\lighting.cpp(59): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\projects\vega\vega\lighting.cpp(61): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\projects\vega\vega\lighting.cpp(63): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\projects\vega\vega\lighting.cpp(65): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\projects\vega\vega\lighting.cpp(68): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  isotropicMaterialWithCompressionResistance.cpp
+  isotropicMaterial.cpp
+  isotropicHyperelasticFEMMT.cpp
+e:\projects\vega\vega\isotropichyperelasticfemmt.cpp(33): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  isotropicHyperelasticFEMForceModel.cpp
+e:\projects\vega\vega\isotropichyperelasticfem.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  isotropicHyperelasticFEM.cpp
+e:\projects\vega\vega\isotropichyperelasticfem.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  invMKSolver.cpp
+  interpolationWeightsMultiLoad.cpp
+e:\projects\vega\vega\interpolationweightsmultiload.cpp(42): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\interpolationweightsmultiload.cpp(83): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  interactiveDeformableSimulator.cpp
+e:\projects\vega\vega\interactivedeformablesimulator.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\projects\vega\vega\corotationallinearfem.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\projects\vega\vega\isotropichyperelasticfem.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(196): warning C4305: “初始化”: 从“double”到“float”截断
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(401): warning C4305: “参数”: 从“double”到“GLfloat”截断
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(488): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(495): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(511): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(842): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(910): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(967): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(1143): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(1158): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(1160): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(1269): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(1524): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(1526): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(1590): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(1184): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(1198): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(1212): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(1220): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(1249): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(1251): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(1620): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(1629): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(1663): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(1902): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(1926): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+e:\projects\vega\vega\interactivedeformablesimulator.cpp(2066): error C3861: “initGLUI”: 找不到标识符
+  integratorMulti1D.cpp
+  integratorBaseSparse.cpp
+  integratorBaseDense.cpp
+e:\projects\vega\vega\lapack-headers.h(2): fatal error C1083: 无法打开包括文件: “mkl_cblas.h”: No such file or directory
+  integratorBase.cpp
+  insertRows.cpp
+  initGraphics.cpp
+  implicitNewmarkSparse.cpp
+  implicitNewmarkDenseMulti1D.cpp
+e:\projects\vega\vega\lapack-headers.h(2): fatal error C1083: 无法打开包括文件: “mkl_cblas.h”: No such file or directory
+  正在生成代码...
+  正在编译...
+  implicitNewmarkDense.cpp
+e:\projects\vega\vega\lapack-headers.h(2): fatal error C1083: 无法打开包括文件: “mkl_cblas.h”: No such file or directory
+  implicitBackwardEulerSparse.cpp
+  implicitBackwardEulerDense.cpp
+e:\projects\vega\vega\lapack-headers.h(2): fatal error C1083: 无法打开包括文件: “mkl_cblas.h”: No such file or directory
+  imageIO.cpp
+e:\projects\vega\vega\imageio.cpp(254): warning C4244: “参数”: 从“int64_t”转换到“size_t”，可能丢失数据
+e:\projects\vega\vega\imageio.cpp(257): warning C4244: “参数”: 从“int64_t”转换到“size_t”，可能丢失数据
+  homogeneousStVKIsotropicMaterial.cpp
+  homogeneousNeoHookeanIsotropicMaterial.cpp
+  homogeneousMooneyRivlinIsotropicMaterial.cpp
+  hashTable.cpp
+  graph.cpp
+e:\projects\vega\vega\graph.cpp(87): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\projects\vega\vega\graph.cpp(95): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+  glui_window.cpp
+  glui_treepanel.cpp
+e:\projects\vega\vega\glui_treepanel.cpp(192): warning C4305: “参数”: 从“double”到“float”截断
+e:\projects\vega\vega\glui_treepanel.cpp(193): warning C4305: “参数”: 从“double”到“float”截断
+e:\projects\vega\vega\glui_treepanel.cpp(194): warning C4305: “参数”: 从“double”到“float”截断
+e:\projects\vega\vega\glui_treepanel.cpp(195): warning C4305: “参数”: 从“double”到“float”截断
+e:\projects\vega\vega\glui_treepanel.cpp(196): warning C4305: “参数”: 从“double”到“float”截断
+e:\projects\vega\vega\glui_treepanel.cpp(197): warning C4305: “参数”: 从“double”到“float”截断
+e:\projects\vega\vega\glui_treepanel.cpp(198): warning C4305: “参数”: 从“double”到“float”截断
+  glui_tree.cpp
+  glui_translation.cpp
+e:\projects\vega\vega\glui_translation.cpp(343): warning C4305: “初始化”: 从“double”到“float”截断
+e:\projects\vega\vega\glui_translation.cpp(350): warning C4305: “参数”: 从“double”到“float”截断
+e:\projects\vega\vega\glui_translation.cpp(351): warning C4305: “参数”: 从“double”到“float”截断
+e:\projects\vega\vega\glui_translation.cpp(432): warning C4305: “参数”: 从“double”到“GLfloat”截断
+  glui_textbox.cpp
+e:\projects\vega\vega\glui_textbox.cpp(430): warning C4305: “参数”: 从“double”到“GLfloat”截断
+e:\projects\vega\vega\glui_textbox.cpp(961): warning C4018: “>”: 有符号/无符号不匹配
+e:\projects\vega\vega\glui_textbox.cpp(963): warning C4018: “>”: 有符号/无符号不匹配
+e:\projects\vega\vega\glui_textbox.cpp(965): warning C4018: “>”: 有符号/无符号不匹配
+  glui_string.cpp
+e:\projects\vega\vega\glui_string.cpp(49): error C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1396): note: 参见“_vsnprintf”的声明
+  glui_statictext.cpp
+  glui_spinner.cpp
+e:\projects\vega\vega\glui_spinner.cpp(632): warning C4305: “=”: 从“double”到“float”截断
+  glui_separator.cpp
+  glui_scrollbar.cpp
+  glui_rotation.cpp
+e:\projects\vega\vega\arcball.h(86): error C3646: “q_now”: 未知重写说明符
+e:\projects\vega\vega\arcball.h(86): error C2059: 语法错误:“,”
+e:\projects\vega\vega\arcball.h(86): error C2238: 意外的标记位于“;”之前
+e:\projects\vega\vega\glui_rotation.cpp(118): warning C4305: “参数”: 从“double”到“float”截断
+  正在生成代码...
+  正在编译...
+  glui_rollout.cpp
+  glui_radio.cpp
+  glui_panel.cpp
+  glui_node.cpp
+  glui_mouse_iaction.cpp
+  glui_listbox.cpp
+e:\projects\vega\vega\glui_listbox.cpp(111): warning C4305: “参数”: 从“double”到“float”截断
+  glui_list.cpp
+e:\projects\vega\vega\glui_list.cpp(226): warning C4305: “参数”: 从“double”到“GLfloat”截断
+  glui_filebrowser.cpp
+e:\projects\vega\vega\glui_filebrowser.cpp(74): error C2664: “BOOL SetCurrentDirectoryW(LPCWSTR)”: 无法将参数 1 从“const char *”转换为“LPCWSTR”
+  e:\projects\vega\vega\glui_filebrowser.cpp(74): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+e:\projects\vega\vega\glui_filebrowser.cpp(101): error C2664: “HANDLE FindFirstFileW(LPCWSTR,LPWIN32_FIND_DATAW)”: 无法将参数 1 从“const char [4]”转换为“LPCWSTR”
+  e:\projects\vega\vega\glui_filebrowser.cpp(101): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+e:\projects\vega\vega\glui_filebrowser.cpp(106): error C2664: “size_t strlen(const char *)”: 无法将参数 1 从“WCHAR [260]”转换为“const char *”
+  e:\projects\vega\vega\glui_filebrowser.cpp(106): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+e:\projects\vega\vega\glui_filebrowser.cpp(109): error C2679: 二进制“+=”: 没有找到接受“WCHAR [260]”类型的右操作数的运算符(或没有可接受的转换)
+  d:\visualstudio\vc\include\xstring(1047): note: 可能是“std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator +=(_Elem)”
+          with
+          [
+              _Elem=char
+          ]
+  d:\visualstudio\vc\include\xstring(1042): note: 或  “std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator +=(const _Elem *)”
+          with
+          [
+              _Elem=char
+          ]
+  d:\visualstudio\vc\include\xstring(1037): note: 或  “std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator +=(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)”
+  d:\visualstudio\vc\include\xstring(977): note: 或  “std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator +=(std::initializer_list<_Elem>)”
+          with
+          [
+              _Elem=char
+          ]
+  e:\projects\vega\vega\glui_filebrowser.cpp(109): note: 尝试匹配参数列表“(GLUI_String, WCHAR [260])”时
+e:\projects\vega\vega\glui_filebrowser.cpp(111): error C2679: 二进制“=”: 没有找到接受“WCHAR [260]”类型的右操作数的运算符(或没有可接受的转换)
+  d:\visualstudio\vc\include\xstring(1032): note: 可能是“std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(_Elem)”
+          with
+          [
+              _Elem=char
+          ]
+  d:\visualstudio\vc\include\xstring(1027): note: 或  “std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const _Elem *)”
+          with
+          [
+              _Elem=char
+          ]
+  d:\visualstudio\vc\include\xstring(1011): note: 或  “std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)”
+  d:\visualstudio\vc\include\xstring(972): note: 或  “std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::initializer_list<_Elem>)”
+          with
+          [
+              _Elem=char
+          ]
+  d:\visualstudio\vc\include\xstring(914): note: 或  “std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::operator =(std::basic_string<char,std::char_traits<char>,std::allocator<char>> &&) noexcept(<expr>)”
+  e:\projects\vega\vega\glui_filebrowser.cpp(111): note: 尝试匹配参数列表“(GLUI_String, WCHAR [260])”时
+  glui_edittext.cpp
+e:\projects\vega\vega\glui_edittext.cpp(1217): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\projects\vega\vega\glui_edittext.cpp(1219): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\projects\vega\vega\glui_edittext.cpp(1240): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  glui_control.cpp
+e:\projects\vega\vega\glui_control.cpp(913): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+  glui_commandline.cpp
+  glui_column.cpp
+  glui_checkbox.cpp
+  glui_button.cpp
+  glui_bitmap_img_data.cpp
+  glui_bitmaps.cpp
+  glui_add_controls.cpp
+  glui.cpp
+  glslPhong.cpp
+e:\projects\vega\vega\glslphong.cpp(218): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\glslphong.cpp(219): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\glslphong.cpp(224): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\projects\vega\vega\glslphong.cpp(225): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\projects\vega\vega\glslphong.cpp(226): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\projects\vega\vega\glslphong.cpp(227): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\projects\vega\vega\glslphong.cpp(229): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+e:\projects\vega\vega\glslphong.cpp(230): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+  getopts.cpp
+e:\projects\vega\vega\getopts.cpp(167): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  正在生成代码...
+  正在编译...
+  getIntegratorSolver.cpp
+e:\projects\vega\vega\getintegratorsolver.cpp(7): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\getintegratorsolver.cpp(10): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  generateTetMeshFromCubicMesh.cpp
+  generateSurfaceMesh.cpp
+  generateMeshGraph.cpp
+  generateMassMatrix.cpp
+  generateInterpolationMatrix.cpp
+  forceModel.cpp
+  example6.cpp
+e:\projects\vega\vega\example6.cpp(173): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  example5.cpp
+e:\projects\vega\vega\example5.cpp(29): warning C4305: “初始化”: 从“double”到“float”截断
+e:\projects\vega\vega\example5.cpp(466): warning C4305: “参数”: 从“double”到“float”截断
+e:\projects\vega\vega\example5.cpp(469): warning C4305: “参数”: 从“double”到“float”截断
+e:\projects\vega\vega\example5.cpp(472): warning C4305: “参数”: 从“double”到“float”截断
+e:\projects\vega\vega\example5.cpp(476): warning C4305: “参数”: 从“double”到“float”截断
+e:\projects\vega\vega\example5.cpp(480): warning C4305: “参数”: 从“double”到“float”截断
+e:\projects\vega\vega\example5.cpp(484): warning C4305: “参数”: 从“double”到“float”截断
+e:\projects\vega\vega\example5.cpp(488): warning C4305: “参数”: 从“double”到“float”截断
+  example4.cpp
+  example3.cpp
+  example2.cpp
+  example1.cpp
+  example.cpp
+  eulerSparse.cpp
+  eig3.cpp
+  cubicMeshIntegrals.cpp
+  cubicMesh.cpp
+  corotationalLinearFEMMT.cpp
+e:\projects\vega\vega\corotationallinearfemmt.cpp(33): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  corotationalLinearFEMForceModel.cpp
+e:\projects\vega\vega\corotationallinearfem.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  正在编译...
+  corotationalLinearFEM.cpp
+e:\projects\vega\vega\corotationallinearfem.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  configFile.cpp
+e:\projects\vega\vega\configfile.cpp(42): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\configfile.cpp(105): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\configfile.cpp(110): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\configfile.cpp(115): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\configfile.cpp(120): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\configfile.cpp(125): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\configfile.cpp(293): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\configfile.cpp(380): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+e:\projects\vega\vega\configfile.cpp(416): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\projects\vega\vega\configfile.cpp(443): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  computeStiffnessMatrixNullspace.cpp
+  coarseToFine-shaders.cpp
+  clothBWMT.cpp
+e:\projects\vega\vega\clothbwmt.cpp(34): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+  clothBWFromObjMesh.cpp
+  clothBWForceModel.cpp
+  clothBW.cpp
+  CGSolver.cpp
+  centralDifferencesSparse.cpp
+  centralDifferencesDense.cpp
+e:\projects\vega\vega\lapack-headers.h(2): fatal error C1083: 无法打开包括文件: “mkl_cblas.h”: No such file or directory
+  camera.cpp
+e:\projects\vega\vega\camera.cpp(357): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\camera.cpp(366): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\projects\vega\vega\camera.cpp(369): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\projects\vega\vega\camera.cpp(371): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+  boundingBox.cpp
+  ARPACKSolver.cpp
+e:\projects\vega\vega\lapack-headers.h(2): fatal error C1083: 无法打开包括文件: “mkl_cblas.h”: No such file or directory
+  arcball.cpp
+e:\projects\vega\vega\arcball.h(86): error C3646: “q_now”: 未知重写说明符
+e:\projects\vega\vega\arcball.h(86): error C2059: 语法错误:“,”
+e:\projects\vega\vega\arcball.h(86): error C2238: 意外的标记位于“;”之前
+e:\projects\vega\vega\arcball.cpp(80): error C2065: “q_now”: 未声明的标识符
+e:\projects\vega\vega\arcball.cpp(80): error C3861: “quat_identity”: 找不到标识符
+e:\projects\vega\vega\arcball.cpp(82): error C2065: “q_increment”: 未声明的标识符
+e:\projects\vega\vega\arcball.cpp(82): error C3861: “quat_identity”: 找不到标识符
+e:\projects\vega\vega\arcball.cpp(133): error C2065: “q_increment”: 未声明的标识符
+e:\projects\vega\vega\arcball.cpp(133): error C3861: “quat_identity”: 找不到标识符
+e:\projects\vega\vega\arcball.cpp(143): error C2065: “q_now”: 未声明的标识符
+e:\projects\vega\vega\arcball.cpp(143): error C2065: “q_drag”: 未声明的标识符
+e:\projects\vega\vega\arcball.cpp(161): error C2065: “q_drag”: 未声明的标识符
+e:\projects\vega\vega\arcball.cpp(161): error C2228: “.set”的左边必须有类/结构/联合
+  e:\projects\vega\vega\arcball.cpp(161): note: 类型是“unknown-type”
+e:\projects\vega\vega\arcball.cpp(164): error C2065: “q_drag”: 未声明的标识符
+e:\projects\vega\vega\arcball.cpp(164): error C2228: “.to_mat4”的左边必须有类/结构/联合
+  e:\projects\vega\vega\arcball.cpp(164): note: 类型是“unknown-type”
+e:\projects\vega\vega\arcball.cpp(170): error C2065: “q_increment”: 未声明的标识符
+e:\projects\vega\vega\arcball.cpp(170): error C2065: “q_drag”: 未声明的标识符
+e:\projects\vega\vega\arcball.cpp(171): error C2065: “q_increment”: 未声明的标识符
+e:\projects\vega\vega\arcball.cpp(171): error C2228: “.to_mat4”的左边必须有类/结构/联合
+  e:\projects\vega\vega\arcball.cpp(171): note: 类型是“unknown-type”
+e:\projects\vega\vega\arcball.cpp(175): error C2065: “q_increment”: 未声明的标识符
+e:\projects\vega\vega\arcball.cpp(175): error C2228: “.s”的左边必须有类/结构/联合
+  e:\projects\vega\vega\arcball.cpp(175): note: 类型是“unknown-type”
+e:\projects\vega\vega\arcball.cpp(215): error C2065: “q_increment”: 未声明的标识符
+e:\projects\vega\vega\arcball.cpp(215): error C2228: “.scale_angle”的左边必须有类/结构/联合
+  e:\projects\vega\vega\arcball.cpp(215): note: 类型是“unknown-type”
+e:\projects\vega\vega\arcball.cpp(217): error C2065: “q_increment”: 未声明的标识符
+e:\projects\vega\vega\arcball.cpp(217): error C2228: “.to_mat4”的左边必须有类/结构/联合
+  e:\projects\vega\vega\arcball.cpp(217): note: 类型是“unknown-type”
+e:\projects\vega\vega\arcball.cpp(219): error C2065: “q_increment”: 未声明的标识符
+e:\projects\vega\vega\arcball.cpp(219): error C2228: “.s”的左边必须有类/结构/联合
+  e:\projects\vega\vega\arcball.cpp(219): note: 类型是“unknown-type”
+  algebra3.cpp
+  正在生成代码...

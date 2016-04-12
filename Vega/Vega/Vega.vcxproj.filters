@@ -1,0 +1,1245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="algebra3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arcball.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ARPACKSolver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="boundingBox.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="centralDifferencesDense.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="centralDifferencesSparse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CGSolver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="clothBW.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="clothBWForceModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="clothBWFromObjMesh.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="clothBWMT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="coarseToFine-shaders.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="computeStiffnessMatrixNullspace.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="configFile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="corotationalLinearFEM.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="corotationalLinearFEMForceModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="corotationalLinearFEMMT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cubicMesh.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cubicMeshIntegrals.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="eig3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="eulerSparse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="example.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="example1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="example2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="example3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="example4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="example5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="example6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="forceModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="generateInterpolationMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="generateMassMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="generateMeshGraph.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="generateSurfaceMesh.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="generateTetMeshFromCubicMesh.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="getIntegratorSolver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="getopts.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glslPhong.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_add_controls.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_bitmap_img_data.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_bitmaps.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_button.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_checkbox.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_column.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_commandline.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_control.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_edittext.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_filebrowser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_listbox.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_mouse_iaction.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_node.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_panel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_radio.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_rollout.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_rotation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_scrollbar.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_separator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_spinner.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_statictext.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_string.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_textbox.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_translation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_treepanel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glui_window.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="graph.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hashTable.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="homogeneousMooneyRivlinIsotropicMaterial.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="homogeneousNeoHookeanIsotropicMaterial.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="homogeneousStVKIsotropicMaterial.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="imageIO.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="implicitBackwardEulerDense.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="implicitBackwardEulerSparse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="implicitNewmarkDense.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="implicitNewmarkDenseMulti1D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="implicitNewmarkSparse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="initGraphics.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="insertRows.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="integratorBase.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="integratorBaseDense.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="integratorBaseSparse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="integratorMulti1D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="interactiveDeformableSimulator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="interpolationWeightsMultiLoad.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="invMKSolver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="isotropicHyperelasticFEM.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="isotropicHyperelasticFEMForceModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="isotropicHyperelasticFEMMT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="isotropicMaterial.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="isotropicMaterialWithCompressionResistance.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lighting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="linearFEMForceModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="linearSolver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="loadList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="massSpringSystem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="massSpringSystemForceModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="massSpringSystemFromCubicMesh.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="massSpringSystemFromCubicMeshConfigFile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="massSpringSystemFromObjMesh.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="massSpringSystemFromObjMeshConfigFile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="massSpringSystemFromTetMesh.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="massSpringSystemFromTetMeshConfigFile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="massSpringSystemMT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mat3d.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="matrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="matrixBLAS.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="matrixBLASOptimized.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="matrixBLASVanilla.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="matrixExp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="matrixIO.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="matrixLAPACK.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="matrixPCA.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="matrixProjection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="modalMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="modalMatrixTransposed.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MooneyRivlinIsotropicMaterial.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="multiMatrixIO.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="neoHookeanIsotropicMaterial.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="objMesh.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="objMeshBinaryLoader.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="objMeshClose.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="objMesh-disjointSet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="objMeshEncode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="objMeshGPUDeformer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="objMeshGPUDeformer_coarseToFine.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="objMeshGPUDeformer_coarseToFine_fbo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="objMeshGPUDeformer_uUq.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="objMeshGPUDeformer_uUq_fbo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="objMeshGPUDeformer_uUq_pbuffer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="objMeshGPUDeformer_uUq_setLighting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="objMeshGraph.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="objMeshOctree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="objMeshOffsetVoxels.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="objMeshOrientable.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="objMeshRender.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="octree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="openGLHelper.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PardisoSolver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="performanceCounter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="polarDecomposition.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="polarDecompositionGradient.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="polarDecompositionGradientDriver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ppm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ppm2array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="printBitmap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="quaternion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="reducedForceModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="reducedForceModelWithHessian.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="reducedLinearForceModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="reducedLinearStVKForceModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="reducedMassSpringSystemForceModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="reducedMassSpringSystemForceModelWithHessian.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="reducedSpringForceModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="reducedStVKForceModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="reducedStVKForceModelWithHessian.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="reducedSubspaceStVKForceModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="renderSprings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="renderVolumetricMesh.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rigidBody.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rigidBody_generalTensor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="saveScreenShot.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneObject.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneObject6DOF.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneObjectDeformable.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneObjectDeformable6DOF.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneObjectDeformableGPU.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneObjectDeformableGPU6DOF.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneObjectReduced.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneObjectReduced6DOF.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneObjectReducedCPU.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneObjectReducedCPU6DOF.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneObjectReducedGPU.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneObjectReducedGPU6DOF.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sceneObjectWithRestPosition.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="simpleSphere.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sparseMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sparseMatrixMT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SPOOLESSolver.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SPOOLESSolverMT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StVKCubeABCD.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StVKElementABCD.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StVKElementABCDLoader.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StVKForceModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StVKHessianTensor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StVKInternalForces.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StVKInternalForcesMT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StVKIsotropicMaterial.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StVKReducedHessianTensor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StVKReducedInternalForces.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StVKReducedInternalForcesMT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StVKReducedInternalForcesMultiLoad.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StVKReducedStiffnessMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StVKStiffnessMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StVKStiffnessMatrixMT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StVKTetABCD.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StVKTetHighMemoryABCD.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tetMesh.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="triangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="triangle-closestPoint.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tribox3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="uniqueIntegerID.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="uUq-shaders.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vbo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vec2d.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vec3d.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="viewmodel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="volumetricMesh.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="volumetricMeshDeformationGradient.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="volumetricMeshENuMaterial.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="volumetricMeshExtensions.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="volumetricMeshLoader.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="volumetricMeshMooneyRivlinMaterial.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="volumetricMeshOrthotropicMaterial.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="volumetricMeshParser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="initGraphics.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="generateMassMatrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="glut-header.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lapack-headers.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="macros.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="matrixMultiplyMacros.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="openGL-headers.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="triple.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="vegalong.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ARPACKSolver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CGSolver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="computeStiffnessMatrixNullspace.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="cubicMesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="generateInterpolationMatrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="generateMeshGraph.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="generateSurfaceMesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="generateTetMeshFromCubicMesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="glh_extensions.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="glh_genext.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="glslPhong.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="interpolationWeightsMultiLoad.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="invMKSolver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="linearSolver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="modalMatrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="modalMatrixTransposed.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="objMeshGPUDeformer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="objMeshGPUDeformer_coarseToFine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="objMeshGPUDeformer_coarseToFine_fbo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="objMeshGPUDeformer_uUq.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="objMeshGPUDeformer_uUq_fbo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="objMeshGPUDeformer_uUq_pbuffer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="objMeshGPUDeformer_uUq_setLighting.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="openGLHelper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PardisoSolver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="printBitmap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="reducedForceModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="reducedForceModelWithHessian.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="reducedLinearForceModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="reducedLinearStVKForceModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="reducedMassSpringSystemForceModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="reducedMassSpringSystemForceModelWithHessian.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="reducedSpringForceModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="reducedStVKForceModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="reducedStVKForceModelWithHessian.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="reducedSubspaceStVKForceModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="renderVolumetricMesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="saveScreenShot.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneObject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneObject6DOF.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneObjectDeformable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneObjectDeformable6DOF.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneObjectDeformableGPU.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneObjectDeformableGPU6DOF.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneObjectReduced.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneObjectReduced6DOF.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneObjectReducedCPU.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneObjectReducedCPU6DOF.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneObjectReducedGPU.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneObjectReducedGPU6DOF.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sceneObjectWithRestPosition.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sparseMatrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sparseMatrixMT.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sparseSolverAvailability.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sparseSolvers.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SPOOLESSolver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SPOOLESSolverMT.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StVKCubeABCD.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StVKElementABCD.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StVKElementABCDLoader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StVKHessianTensor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StVKInternalForces.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StVKInternalForcesMT.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StVKReducedHessianTensor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StVKReducedInternalForcesMultiLoad.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StVKStiffnessMatrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StVKStiffnessMatrixMT.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StVKTetABCD.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StVKTetHighMemoryABCD.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tetMesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="uniqueIntegerID.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="vbo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="volumetricMesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="volumetricMeshDeformationGradient.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="volumetricMeshENuMaterial.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="volumetricMeshExtensions.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="volumetricMeshLoader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="volumetricMeshMooneyRivlinMaterial.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="volumetricMeshOrthotropicMaterial.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="volumetricMeshParser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="boundingBox.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="centralDifferencesDense.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="centralDifferencesSparse.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="clothBW.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="clothBWForceModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="clothBWFromObjMesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="clothBWMT.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="corotationalLinearFEMForceModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="eig3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="eulerSparse.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="expokit_xgpadm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="forceModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="getIntegratorSolver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="glui.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="graph.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="hashTable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="homogeneousMooneyRivlinIsotropicMaterial.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="homogeneousNeoHookeanIsotropicMaterial.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="homogeneousStVKIsotropicMaterial.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="imageFormats.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="imageIO.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="implicitBackwardEulerDense.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="implicitBackwardEulerSparse.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="implicitNewmarkDense.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="implicitNewmarkDenseMulti1D.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="implicitNewmarkSparse.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="insertRows.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="integratorBase.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="integratorBaseDense.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="integratorBaseSparse.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="integratorMulti1D.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="integratorSolverSelection.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IPIVC.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="isotropicHyperelasticFEM.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="isotropicHyperelasticFEMForceModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="isotropicHyperelasticFEMMT.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="isotropicMaterial.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="isotropicMaterialWithCompressionResistance.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lighting.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="linearFEMForceModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="loadList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="massSpringSystem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="massSpringSystemForceModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="massSpringSystemFromCubicMesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="massSpringSystemFromCubicMeshConfigFile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="massSpringSystemFromObjMesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="massSpringSystemFromObjMeshConfigFile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="massSpringSystemFromTetMesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="massSpringSystemFromTetMeshConfigFile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="massSpringSystemMT.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mat3d.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="matrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="matrixBLAS.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="matrixExp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="matrixIO.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="matrixLAPACK.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="matrixMacros.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="matrixPCA.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="matrixProjection.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="minivector.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MooneyRivlinIsotropicMaterial.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="multiMatrixIO.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="neoHookeanIsotropicMaterial.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="objMesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="objMeshBinaryLoader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="objMeshClose.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="objMesh-disjointSet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="objMeshEncode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="objMeshGraph.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="objMeshOctree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="objMeshOffsetVoxels.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="objMeshOrientable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="objMeshRender.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="octree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="performanceCounter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="polarDecomposition.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="polarDecompositionGradient.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ppm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="quaternion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="renderSprings.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="rigidBody.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="rigidBody_generalTensor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="simpleSphere.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StVKForceModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StVKIsotropicMaterial.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StVKReducedInternalForces.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StVKReducedInternalForcesMT.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StVKReducedStiffnessMatrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="triangle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tribox3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="vec2d.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="vec3d.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="viewmodel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="algebra3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="arcball.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="configFile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="corotationalLinearFEM.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="corotationalLinearFEMMT.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="getopts.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="glui_internal.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="glui_internal_control.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="index.html" />
+  </ItemGroup>
+</Project>
